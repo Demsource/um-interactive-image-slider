@@ -55,6 +55,7 @@
 }
 
 .image-slider button.arrow-wrapper svg.arrow {
+  color: black;
   display: block;
   padding: 10px;
 }
@@ -100,6 +101,7 @@
 .image-slider .dots button.dot-wrapper svg {
   border: 2px solid white;
   border-radius: 50%;
+  color: black;
   width: 15px;
   height: 15px;
 }
