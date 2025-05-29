@@ -12,3 +12,4 @@
 
 * Run `npm run dev` to start the server
 
+> **Note:** Since the app relies on a remote server, images may occasionally fail to load or appear damaged. In such cases, please refresh the page to load the images again.
